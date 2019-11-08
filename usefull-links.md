@@ -1,12 +1,13 @@
 #### Links
 
-https://habr.com/ru/company/playrix/blog/345732/ статья в 2х частях, в конце первой части есть ссылка на вторую часть
-https://nuancesprog.ru/p/5243/
-https://nuancesprog.ru/p/3598/
-https://git-scm.com/book/ru/v2 оффициальная книга по git от самого git
+1. https://habr.com/ru/company/playrix/blog/345732/ статья в 2х частях, в конце первой части есть ссылка на вторую часть
+2. https://nuancesprog.ru/p/5243/
+3. https://nuancesprog.ru/p/3598/
+4. https://git-scm.com/book/ru/v2 оффициальная книга по git от самого git
 
-+слайды в lms
-+гуглите если что-то не знаете и пишите мне личку или в канал
+5. +слайды в lms
+6. +гуглите если что-то не знаете и пишите мне личку или в канал
+
 
 #### Commands
 
